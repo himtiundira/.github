@@ -3,7 +3,7 @@
 
 HIMTI (Informatics Engineering Student Association) is the official student organization for Informatics Engineering students at **Dian Nusantara University**. Our goal is to create a dynamic and collaborative environment for students to learn, grow, and develop their skills in the field of information technology.
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/129246035?s=400&u=19b780992475128b447b48104e07d8b116d915f2&v=4" alt="HIMTI Filosofi">
+  <img src="https://raw.githubusercontent.com/himtiundira/.github/refs/heads/main/assets/banner.png" alt="HIMTI Banner">
  </p>
 
 ### 🌟 Our Mission
